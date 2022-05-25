@@ -1,3 +1,6 @@
+An exercise in class to be able to learn how to program with LARAVEL and PhpmyAdmin. this project is a list of modules and courses with filter, you can also add, edit, delete and view.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
